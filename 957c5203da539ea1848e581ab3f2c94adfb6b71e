@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f6aa8f96_9774c649",
+        "filename": "AndroidProducts.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-11-07T22:15:40Z",
+      "side": 1,
+      "message": "Missing copyrights",
+      "revId": "957c5203da539ea1848e581ab3f2c94adfb6b71e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b40865cc_baa74090",
+        "filename": "lineage_sailfish.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-11-07T22:15:40Z",
+      "side": 1,
+      "message": "Why are you touching this in the same change?",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 89
+      },
+      "revId": "957c5203da539ea1848e581ab3f2c94adfb6b71e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
